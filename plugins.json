@@ -2,7 +2,7 @@
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/Animeler.cs3",
   "status": 1,
-  "version": 38,
+  "version": 39,
   "name": "Animeler",
   "internalName": "Animeler",
   "authors": [
@@ -11,7 +11,7 @@
    "kerimmkirac"
   ],
   "description": "HD kalitesinde ücretsiz anime izle! Animeler.me, en yeni ve popüler anime serilerini Türkçe altyazılı ve dublajlı olarak sunar. Favori animelerini hemen keşfet!",
-  "fileSize": 45293,
+  "fileSize": 45538,
   "repositoryUrl": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main",
   "language": "tr",
   "tvTypes": [
@@ -19,7 +19,7 @@
   ],
   "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animeler.pw/&size=128",
   "apiVersion": 1,
-  "fileHash": "sha256-b8bb52ffae9526315f0b7f16a65f422bdcf269d8217ae38a0197942d33011cef"
+  "fileHash": "sha256-230cd90217324204240ceb8ae2419900325ffae682d1f5544d24ebe66af0b233"
  },
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/Animely.cs3",
@@ -69,14 +69,14 @@
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/AsyaAnimeleri.cs3",
   "status": 1,
-  "version": 21,
+  "version": 22,
   "name": "AsyaAnimeleri",
   "internalName": "AsyaAnimeleri",
   "authors": [
    "kraptor"
   ],
   "description": "Asya Animeleri – Anime izle | Donghua izle | Animeler | Donghuantr | Türkanime | Donghua Anime, Türkçe Altyazılı Anime izle , Türkçe Anime, animeizle.",
-  "fileSize": 27866,
+  "fileSize": 28132,
   "repositoryUrl": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main",
   "language": "tr",
   "tvTypes": [
@@ -84,7 +84,7 @@
   ],
   "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://asyaanimeleri.top/&size=128",
   "apiVersion": 1,
-  "fileHash": "sha256-06fa6af57c9f38171f0c6c5e724054d9514416d356a4f88ca90c539a25b6000c"
+  "fileHash": "sha256-364b16833f4069aab08869e2c2c45b8c514c5b7dfe4b71d87f3d3dcd22f75c29"
  },
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/AsyaFanatiklerim.cs3",
@@ -150,7 +150,7 @@
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/BelgeselX.cs3",
   "status": 1,
-  "version": 36,
+  "version": 37,
   "name": "BelgeselX",
   "internalName": "BelgeselX",
   "authors": [
@@ -158,7 +158,7 @@
    "ByAyzen"
   ],
   "description": "En yeni belgeseller, türkçe altyazılı yada dublaj olarak 1080p kalitesinde HD belgesel izle.",
-  "fileSize": 41988,
+  "fileSize": 42267,
   "repositoryUrl": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main",
   "language": "tr",
   "tvTypes": [
@@ -166,7 +166,7 @@
   ],
   "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=belgeselx.com",
   "apiVersion": 1,
-  "fileHash": "sha256-b32075ee3602b6e738d38af71fa3bcc24f46eb57bc9dbe22dfe43a94c6fb6612"
+  "fileHash": "sha256-08a49f000e70b730410ad07ae99246ba49711d214fd8335e342ff6982b822e33"
  },
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/CizgiMax.cs3",
@@ -212,14 +212,14 @@
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/Ddizi.cs3",
   "status": 1,
-  "version": 14,
+  "version": 15,
   "name": "Ddizi",
   "internalName": "Ddizi",
   "authors": [
    "kraptor"
   ],
   "description": "Ddizi, dizi izle, dizi seyret, yerli dizi izle, canlı dizi, türk dizi izle, dizi izle full, diziizle, eski diziler.",
-  "fileSize": 26584,
+  "fileSize": 26821,
   "repositoryUrl": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main",
   "language": "tr",
   "tvTypes": [
@@ -227,19 +227,19 @@
   ],
   "iconUrl": "https://www.ddizi.im/images/logo.png",
   "apiVersion": 1,
-  "fileHash": "sha256-903f426c3345e0d349bd8ac40dd607f93c66cfd2ed7a750dcf773f1253d2aab4"
+  "fileHash": "sha256-668d6d569e964ea475fc3fd2b8d053254e592696c576d5d708d30c20bec09f17"
  },
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/DiziAsia.cs3",
   "status": 1,
-  "version": 15,
+  "version": 16,
   "name": "DiziAsia",
   "internalName": "DiziAsia",
   "authors": [
    "kerimmkirac"
   ],
   "description": "DiziAsia - Asya Dizileri İzle",
-  "fileSize": 17971,
+  "fileSize": 18239,
   "repositoryUrl": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main",
   "language": "tr",
   "tvTypes": [
@@ -247,7 +247,7 @@
   ],
   "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=diziasia.com",
   "apiVersion": 1,
-  "fileHash": "sha256-2d95f47de9de5cb3f62649bb7025873bd46ea328b190573592a07c582f255347"
+  "fileHash": "sha256-110b42c941d48d3a3179f321e4ee7ccc48e6701f35eac9ee16545fe441d2dc2a"
  },
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/DiziAsya.cs3",
@@ -294,14 +294,14 @@
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/DiziFilmORG.cs3",
   "status": 1,
-  "version": 17,
+  "version": 18,
   "name": "DiziFilmORG",
   "internalName": "DiziFilmORG",
   "authors": [
    "ByAyzen"
   ],
   "description": "En yeni ve popüler yerli yabancı filmleri Türkçe dublaj ve altyazılı seçeneklerle Full HD kalitede, tek parça ve kesintisiz Dizifilm.org’da izle.",
-  "fileSize": 70190,
+  "fileSize": 70461,
   "repositoryUrl": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main",
   "language": "tr",
   "tvTypes": [
@@ -310,7 +310,7 @@
   ],
   "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizifilm.org/dizi/breaking-bad/sezon-1/bolum-2&size=128",
   "apiVersion": 1,
-  "fileHash": "sha256-468dfd246d371c1b049f6437b7682db85fb1a53e2be315f276f42042ebe71b2e"
+  "fileHash": "sha256-98253041562cd9e19f8ed2a1661c761759ee418aab36f50d915a6f8abc3a27b2"
  },
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/DiziKorea.cs3",
@@ -530,7 +530,7 @@
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/FilmEkseni.cs3",
   "status": 1,
-  "version": 47,
+  "version": 48,
   "name": "FilmEkseni",
   "internalName": "FilmEkseni",
   "authors": [
@@ -538,7 +538,7 @@
    "ByAyzen"
   ],
   "description": "Film Ekseni ⚡ Vizyonda ki, en güncel ve en yeni filmleri full hd kalitesinde türkçe dublaj ve altyazı seçenekleriyle 1080p olarak izleyebileceğiniz adresiniz.",
-  "fileSize": 62244,
+  "fileSize": 62422,
   "repositoryUrl": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main",
   "language": "tr",
   "tvTypes": [
@@ -546,7 +546,7 @@
   ],
   "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://filmekseni.net/&size=128",
   "apiVersion": 1,
-  "fileHash": "sha256-9b22b26a7fa16ced46058f48bec49cc277fca0a28043e13ac8e187a0e8615ccc"
+  "fileHash": "sha256-068107841fe2a87aa4fd6ceb5c249fbf21deab2c6b2804701e3ae263ebbd6d6b"
  },
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/FilmHane.cs3",
@@ -631,14 +631,14 @@
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/HDFilmDelisi.cs3",
   "status": 1,
-  "version": 15,
+  "version": 16,
   "name": "HDFilmDelisi",
   "internalName": "HDFilmDelisi",
   "authors": [
    "ByAyzen"
   ],
   "description": "En yeni ve popüler filmleri Türkçe dublaj ve altyazı seçenekleriyle Full HD kalitede izleyin. Binlerce film tek tıkla sizlerle!",
-  "fileSize": 76865,
+  "fileSize": 77086,
   "repositoryUrl": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main",
   "language": "tr",
   "tvTypes": [
@@ -646,7 +646,7 @@
   ],
   "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://hdfilmdelisi.one/&size=128",
   "apiVersion": 1,
-  "fileHash": "sha256-0f174d82096ba48cdd4299c7fa58e3f13fe01c2cee29aeb348a03799622ade7c"
+  "fileHash": "sha256-26db350e3b0b365402ace0c274493f06a4a6f72d76fe51d28eff2e9253db22ae"
  },
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/HDFilmizle.cs3",
@@ -671,7 +671,7 @@
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/JetFilmizle.cs3",
   "status": 1,
-  "version": 61,
+  "version": 62,
   "name": "JetFilmizle",
   "internalName": "JetFilmizle",
   "authors": [
@@ -679,7 +679,7 @@
    "ByAyzen"
   ],
   "description": "Binlerce Film İzleme Seçeneğiyle En İyi Film İzleme Sitesi",
-  "fileSize": 60889,
+  "fileSize": 61130,
   "repositoryUrl": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main",
   "language": "tr",
   "tvTypes": [
@@ -687,12 +687,12 @@
   ],
   "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jetfilmizle.de&size=128",
   "apiVersion": 1,
-  "fileHash": "sha256-a62c86e1260e39d35f6018574d4e307621f4eea82ccc4bbdfce27cabfa0ed4cb"
+  "fileHash": "sha256-cba135c8f88ffb6521e7b3bed5388aa2de75dcd822134daf065ec90ade956336"
  },
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/KickTR.cs3",
   "status": 1,
-  "version": 14,
+  "version": 15,
   "name": "KickTR",
   "internalName": "KickTR",
   "authors": [
@@ -700,7 +700,7 @@
    "kraptor"
   ],
   "description": "Kick, canlı yayın yapılan bir platformdur. Daha gevşek kuralları ve yayıncılara daha fazla kazanç sağlamasıyla bilinir. Platform, yayıncılardan sadece %5 kesinti yapar ve bu oran diğer yayın platformlarına göre en düşük kesintilerden biridir.",
-  "fileSize": 30073,
+  "fileSize": 30324,
   "repositoryUrl": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main",
   "language": "tr",
   "tvTypes": [
@@ -708,7 +708,7 @@
   ],
   "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://kick.com&size=48",
   "apiVersion": 1,
-  "fileHash": "sha256-68f7a6f59ab065a04ef0420dcabe05056058b27efcadd4b5169bc8bfb2d47494"
+  "fileHash": "sha256-62a4540d5c9f827f9a4168c70b27c5d877cd0b8439d083d4769dff8808a6e6af"
  },
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/KraptorPlus.cs3",
@@ -740,14 +740,14 @@
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/KultFilmler.cs3",
   "status": 1,
-  "version": 29,
+  "version": 30,
   "name": "KultFilmler",
   "internalName": "KultFilmler",
   "authors": [
    "kraptor"
   ],
   "description": "Kült Filmler özenle en iyi filmleri derler ve iyi bir altyazılı film izleme deneyimi sunmayı amaçlar",
-  "fileSize": 28752,
+  "fileSize": 28999,
   "repositoryUrl": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main",
   "language": "tr",
   "tvTypes": [
@@ -756,7 +756,7 @@
   ],
   "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://kultfilmler.net&size=32",
   "apiVersion": 1,
-  "fileHash": "sha256-4aa903c01f79e4990305fb1801ff796402ed3062908ffe997e6a85e07d0cffab"
+  "fileHash": "sha256-5d28a4df67577763b3c58222a0a1e928b5bf30eea599ba1cc5716de374bc5526"
  },
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/MirrorVerse.cs3",
@@ -784,14 +784,14 @@
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/OnePaceTr.cs3",
   "status": 1,
-  "version": 10,
+  "version": 11,
   "name": "OnePaceTr",
   "internalName": "OnePaceTr",
   "authors": [
    "kraptor"
   ],
   "description": "One Pace türkçe altyazılı izleme platformu.",
-  "fileSize": 24894,
+  "fileSize": 25154,
   "repositoryUrl": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main",
   "language": "tr",
   "tvTypes": [
@@ -799,12 +799,12 @@
   ],
   "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.onepacetr.net/&size=128",
   "apiVersion": 1,
-  "fileHash": "sha256-f5f428f512c899b4b93cccb3f0cc0d5ec5cf74a34463b1692a60b9f5328edcf0"
+  "fileHash": "sha256-b72509eeefc043c78c6188fa3ab2ed49ca3ef4ad9665e99546af7c64b679ab3c"
  },
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/OpenAnime.cs3",
   "status": 1,
-  "version": 25,
+  "version": 26,
   "name": "OpenAnime",
   "internalName": "OpenAnime",
   "authors": [
@@ -812,7 +812,7 @@
    "ByAyzen"
   ],
   "description": "Anime izleme deneyiminizi zenginleştiren, hızlı ve etkileyici özelliklerle donatılmış, şık bir tasarıma sahip anime platformu. Anime izleme deneyiminiz, kolaylaştırıldı.",
-  "fileSize": 67184,
+  "fileSize": 67430,
   "repositoryUrl": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main",
   "language": "tr",
   "tvTypes": [
@@ -821,19 +821,19 @@
   ],
   "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://openani.me/&size=24",
   "apiVersion": 1,
-  "fileHash": "sha256-55f25f27fcea7f2c2c5658c14a2a67ff4c87ab3c72207413744179f0b8370f76"
+  "fileHash": "sha256-b7d4c028586b7db3058d3bd2cda8e5ff5b0e18c53a768690c3579935b62308ed"
  },
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/RareFilmm.cs3",
   "status": 1,
-  "version": 17,
+  "version": 18,
   "name": "RareFilmm",
   "internalName": "RareFilmm",
   "authors": [
    "ByAyzen"
   ],
   "description": "The Cave of Forgotten Films",
-  "fileSize": 28753,
+  "fileSize": 28981,
   "repositoryUrl": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main",
   "language": "en",
   "tvTypes": [
@@ -841,7 +841,7 @@
   ],
   "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://rarefilmm.com&size=128",
   "apiVersion": 1,
-  "fileHash": "sha256-5efc3de6a40c608f2f45ef71026157ebf51ee84d1ed6468673cd106a1b578ed9"
+  "fileHash": "sha256-a3de8b65ed702f668f44df8c0afdb55bec05b5de91be9ba28856709a04807481"
  },
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/SeiCode.cs3",
@@ -951,14 +951,14 @@
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/Sinezy.cs3",
   "status": 1,
-  "version": 38,
+  "version": 39,
   "name": "Sinezy",
   "internalName": "Sinezy",
   "authors": [
    "kraptor"
   ],
   "description": "Yerli ve yabancı film izle! Türkçe Dublaj ve Alt Yazılı Seçenekleriyle full hd film izlemek için En çok tercih edilen adres!",
-  "fileSize": 21163,
+  "fileSize": 21407,
   "repositoryUrl": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main",
   "language": "tr",
   "tvTypes": [
@@ -966,7 +966,7 @@
   ],
   "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://sinezy.fit&size=128",
   "apiVersion": 1,
-  "fileHash": "sha256-e890f8fe3ab80eadd42a36b1d7820dc481745715dbd21ea5cf7d3bda9c5a5aed"
+  "fileHash": "sha256-2bbfded8cf96fa69ccdf055d29bcb9bf0465301ffc7c75d5d18944dfeac520d6"
  },
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/TrAnimeIzle.cs3",
@@ -991,7 +991,7 @@
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/TurkAnime.cs3",
   "status": 1,
-  "version": 32,
+  "version": 33,
   "name": "TurkAnime",
   "internalName": "TurkAnime",
   "authors": [
@@ -999,7 +999,7 @@
    "ByAyzen"
   ],
   "description": "Türk Anime TV - Türkiye'nin Online Anime izleme sitesi.",
-  "fileSize": 60822,
+  "fileSize": 61119,
   "repositoryUrl": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main",
   "language": "tr",
   "tvTypes": [
@@ -1008,7 +1008,7 @@
   ],
   "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.turkanime.co&size=64",
   "apiVersion": 1,
-  "fileHash": "sha256-079e77ba02727a722539687700e778e57be26ef97fa1b0bbf77eb07d9974d3e5"
+  "fileHash": "sha256-b7f4f8a2af66d2b2fb3c4c1937543ade83d1fa66f3c0dfde6c55903ac74801bf"
  },
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/Turkdizileri.cs3",
@@ -1033,14 +1033,14 @@
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/TvDiziler.cs3",
   "status": 1,
-  "version": 15,
+  "version": 16,
   "name": "TvDiziler",
   "internalName": "TvDiziler",
   "authors": [
    "kraptor"
   ],
   "description": "Tv Diziler Ücretsiz yerli dizi izleme sitesi en popüler dizileri tek parça hd kalitesiyle ve reklamsız bedava olarak buradan tv dizileri izleyin.",
-  "fileSize": 30686,
+  "fileSize": 30926,
   "repositoryUrl": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main",
   "language": "tr",
   "tvTypes": [
@@ -1048,7 +1048,7 @@
   ],
   "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://tvdiziler.cc&size=16",
   "apiVersion": 1,
-  "fileHash": "sha256-bb2f263ed2960a789c850d3cc436a03218dec22cae20a52ada2af9dbee3f4673"
+  "fileHash": "sha256-d4112b703de70a86c9a84e1c77869038f7599792991ddc76d5c2f681ceaa429d"
  },
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/UgurFilm.cs3",
@@ -1159,14 +1159,14 @@
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/YabanciDizi.cs3",
   "status": 1,
-  "version": 17,
+  "version": 18,
   "name": "YabanciDizi",
   "internalName": "YabanciDizi",
   "authors": [
    "kraptor"
   ],
   "description": "Son çıkan yabancı dizi ve filmleri yabancidizi' de izle. En yeni yabancı film ve diziler, türkçe altyazılı yada dublaj olarak 1080p kalitesinde hd izle.",
-  "fileSize": 39212,
+  "fileSize": 39456,
   "repositoryUrl": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main",
   "language": "tr",
   "tvTypes": [
@@ -1174,7 +1174,7 @@
   ],
   "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://yabancidizi.so/&size=128",
   "apiVersion": 1,
-  "fileHash": "sha256-4301601e22142b2102f27c65fb281c89229d17b662381b2c534f21d7ba864407"
+  "fileHash": "sha256-1fcfce7912714fbc48ba76193dd47f71692d95eba7cc69f9611ccf98d9058317"
  },
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/YeniKaynak.cs3",
