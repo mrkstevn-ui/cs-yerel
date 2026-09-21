@@ -485,7 +485,7 @@
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/Dizilla.cs3",
   "status": 1,
-  "version": 103,
+  "version": 104,
   "name": "Dizilla",
   "internalName": "Dizilla",
   "authors": [
@@ -493,7 +493,7 @@
    "kerimmkirac"
   ],
   "description": "1080p yabancı dizi izle. Türkçe altyazılı veya dublaj seçenekleriyle 1080p çözünürlükte yabancı dizilere anında ulaş. Popüler dizileri kesintisiz izle.",
-  "fileSize": 139225,
+  "fileSize": 139261,
   "repositoryUrl": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main",
   "language": "tr",
   "tvTypes": [
@@ -501,7 +501,7 @@
   ],
   "iconUrl": "https://www.google.com/s2/favicons?sz=128&domain=https://dizilla.to",
   "apiVersion": 1,
-  "fileHash": "sha256-1eb0fa6e2e55643714026cd645a48fb11cf8bc6f06f2d5011835fda746578efd"
+  "fileHash": "sha256-80cacd883c7cac2665745f7a2a91ab6bc834e45529a7b4742f68da9d940cecbc"
  },
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/Dizipod.cs3",
