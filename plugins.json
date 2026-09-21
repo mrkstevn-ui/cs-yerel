@@ -991,7 +991,7 @@
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/TurkAnime.cs3",
   "status": 1,
-  "version": 31,
+  "version": 32,
   "name": "TurkAnime",
   "internalName": "TurkAnime",
   "authors": [
@@ -999,7 +999,7 @@
    "ByAyzen"
   ],
   "description": "Türk Anime TV - Türkiye'nin Online Anime izleme sitesi.",
-  "fileSize": 60829,
+  "fileSize": 60822,
   "repositoryUrl": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main",
   "language": "tr",
   "tvTypes": [
@@ -1008,7 +1008,7 @@
   ],
   "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.turkanime.co&size=64",
   "apiVersion": 1,
-  "fileHash": "sha256-cfb2fc2395f1571a01beaf7a106371a4a933de5a8f4f0adbde1b4d16f0da8b3f"
+  "fileHash": "sha256-079e77ba02727a722539687700e778e57be26ef97fa1b0bbf77eb07d9974d3e5"
  },
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/Turkdizileri.cs3",
