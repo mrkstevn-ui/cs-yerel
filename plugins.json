@@ -671,7 +671,7 @@
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/JetFilmizle.cs3",
   "status": 1,
-  "version": 60,
+  "version": 61,
   "name": "JetFilmizle",
   "internalName": "JetFilmizle",
   "authors": [
@@ -679,7 +679,7 @@
    "ByAyzen"
   ],
   "description": "Binlerce Film İzleme Seçeneğiyle En İyi Film İzleme Sitesi",
-  "fileSize": 60887,
+  "fileSize": 60889,
   "repositoryUrl": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main",
   "language": "tr",
   "tvTypes": [
@@ -687,7 +687,7 @@
   ],
   "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jetfilmizle.de&size=128",
   "apiVersion": 1,
-  "fileHash": "sha256-0fe4e5997cd36182703d5d07492173bf2ec6d0aa9cfbebc8d539e287e06d5cde"
+  "fileHash": "sha256-a62c86e1260e39d35f6018574d4e307621f4eea82ccc4bbdfce27cabfa0ed4cb"
  },
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/KickTR.cs3",
@@ -991,7 +991,7 @@
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/TurkAnime.cs3",
   "status": 1,
-  "version": 30,
+  "version": 31,
   "name": "TurkAnime",
   "internalName": "TurkAnime",
   "authors": [
@@ -999,7 +999,7 @@
    "ByAyzen"
   ],
   "description": "Türk Anime TV - Türkiye'nin Online Anime izleme sitesi.",
-  "fileSize": 60824,
+  "fileSize": 60829,
   "repositoryUrl": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main",
   "language": "tr",
   "tvTypes": [
@@ -1008,7 +1008,7 @@
   ],
   "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.turkanime.co&size=64",
   "apiVersion": 1,
-  "fileHash": "sha256-574e7fa65578251003ccb583a523496c7fefe4f8a4c431bd37aabe3b985990d3"
+  "fileHash": "sha256-cfb2fc2395f1571a01beaf7a106371a4a933de5a8f4f0adbde1b4d16f0da8b3f"
  },
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/Turkdizileri.cs3",
@@ -1033,14 +1033,14 @@
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/TvDiziler.cs3",
   "status": 1,
-  "version": 14,
+  "version": 15,
   "name": "TvDiziler",
   "internalName": "TvDiziler",
   "authors": [
    "kraptor"
   ],
   "description": "Tv Diziler Ücretsiz yerli dizi izleme sitesi en popüler dizileri tek parça hd kalitesiyle ve reklamsız bedava olarak buradan tv dizileri izleyin.",
-  "fileSize": 30640,
+  "fileSize": 30686,
   "repositoryUrl": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main",
   "language": "tr",
   "tvTypes": [
@@ -1048,7 +1048,7 @@
   ],
   "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://tvdiziler.cc&size=16",
   "apiVersion": 1,
-  "fileHash": "sha256-f28b14c1373f57ffb9bfa76533a226a7e3fd453702a5f3492a2ee4f5b0b9d865"
+  "fileHash": "sha256-bb2f263ed2960a789c850d3cc436a03218dec22cae20a52ada2af9dbee3f4673"
  },
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/UgurFilm.cs3",
@@ -1159,14 +1159,14 @@
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/YabanciDizi.cs3",
   "status": 1,
-  "version": 16,
+  "version": 17,
   "name": "YabanciDizi",
   "internalName": "YabanciDizi",
   "authors": [
    "kraptor"
   ],
   "description": "Son çıkan yabancı dizi ve filmleri yabancidizi' de izle. En yeni yabancı film ve diziler, türkçe altyazılı yada dublaj olarak 1080p kalitesinde hd izle.",
-  "fileSize": 39206,
+  "fileSize": 39212,
   "repositoryUrl": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main",
   "language": "tr",
   "tvTypes": [
@@ -1174,7 +1174,7 @@
   ],
   "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://yabancidizi.so/&size=128",
   "apiVersion": 1,
-  "fileHash": "sha256-33798738dee326cb247c7a79c42724ca741ead75e733de611bd93df5002e2ff8"
+  "fileHash": "sha256-4301601e22142b2102f27c65fb281c89229d17b662381b2c534f21d7ba864407"
  },
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/YeniKaynak.cs3",
