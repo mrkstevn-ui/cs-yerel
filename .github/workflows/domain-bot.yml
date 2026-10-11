@@ -1,0 +1,31 @@
+name: CloudStream Domain Auto-Updater Bot
+
+on:
+  schedule:
+    # Her 6 saatte bir otomatik çalışır (00:00, 06:00, 12:00, 18:00 UTC)
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # GitHub arayüzünden manuel tetikleme butonu
+
+permissions:
+  contents: write
+
+jobs:
+  update-domains:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Depoyu Klonla
+        uses: actions/checkout@v4
+
+      - name: Python Ortamını Hazırla
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Git Kimliğini Ayarla
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Domain Botunu Çalıştır ve Push Et
+        run: |
+          python domain_bot.py --push
