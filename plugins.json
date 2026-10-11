@@ -1196,5 +1196,27 @@
   "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.yenikaynak.com/&size=16",
   "apiVersion": 1,
   "fileHash": "sha256-c6651ed1223388ecc378839853c1ecb52178fefc3c866a06c1c4ead1344b10bf"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/HDFilmCehennemi.cs3",
+  "status": 1,
+  "version": 58,
+  "name": "HDFilmCehennemi",
+  "internalName": "HDFilmCehennemi",
+  "authors": [
+   "hexated",
+   "keyiflerolsun"
+  ],
+  "description": "Türkiye'nin en popüler ve güncel hd film ve dizi izleme sitesi.",
+  "fileSize": 48578,
+  "repositoryUrl": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main",
+  "language": "tr",
+  "tvTypes": [
+   "Movie",
+   "TvSeries"
+  ],
+  "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.hdfilmcehennemi.nl&size=128",
+  "apiVersion": 1,
+  "fileHash": "sha256-453fe0ac8d5de15889dd067334a523946a36b0c3886c06030c6e65e6c4467dac"
  }
 ]
