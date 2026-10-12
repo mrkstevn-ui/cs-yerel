@@ -1456,28 +1456,8 @@
   "fileHash": "sha256-d4e8de61fd99275ecda7a2c1a53da5b1643cfa42e8f6bba0c32383b722de14db"
  },
  {
-  "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/builds/vavooSpor.cs3",
-  "status": 1,
-  "version": 2,
-  "name": "vavooSpor",
-  "internalName": "vavooSpor",
-  "authors": [
-   "patr0n"
-  ],
-  "description": "vavooSpor",
-  "fileSize": 18697,
-  "repositoryUrl": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main",
-  "language": "tr",
-  "tvTypes": [
-   "Live"
-  ],
-  "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=%size%",
-  "apiVersion": 1,
-  "fileHash": "sha256-bff9d239de839f1e99e0d97f9dcb5a663f9b3130de22caf973bc43467384f330"
- },
- {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/builds/DiziMag.cs3",
-  "status": 1,
+  "status": 0,
   "version": 17,
   "name": "DiziMag",
   "internalName": "DiziMag",
@@ -1497,7 +1477,7 @@
  },
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/builds/4KFilmIzlesene.cs3",
-  "status": 1,
+  "status": 0,
   "version": 6,
   "name": "4KFilmIzlesene",
   "internalName": "4KFilmIzlesene",
@@ -1638,26 +1618,6 @@
   "fileHash": "sha256-66bbf0715687224699d9aa78a1b767fd91649c6bdb4f61456acdedc81a795ad2"
  },
  {
-  "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/builds/Taraftarium24.cs3",
-  "status": 1,
-  "version": 2,
-  "name": "Taraftarium24",
-  "internalName": "Taraftarium24",
-  "authors": [
-   "Community"
-  ],
-  "description": "Taraftarium24 Canlı Maç ve Spor Yayınları",
-  "fileSize": 15600,
-  "repositoryUrl": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main",
-  "language": "tr",
-  "tvTypes": [
-   "Live"
-  ],
-  "iconUrl": "",
-  "apiVersion": 1,
-  "fileHash": "sha256-d610d79c055d420d5cab9ed1c3a4cd4cb48b02a1ada0d12610ef118d8aff4b60"
- },
- {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/builds/MRC-Live.cs3",
   "status": 1,
   "version": 3,
@@ -1758,185 +1718,5 @@
   "iconUrl": "",
   "apiVersion": 1,
   "fileHash": "sha256-265844af45216ac0ad636abaa0bb1f72484d65e529036c3cf60a7a45f15abda7"
- },
- {
-  "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/builds/FullPorner.cs3",
-  "status": 1,
-  "version": 2,
-  "name": "FullPorner",
-  "internalName": "FullPorner",
-  "authors": [
-   "Community"
-  ],
-  "description": "+18 Full length HD video platformu",
-  "fileSize": 12380,
-  "repositoryUrl": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main",
-  "language": "tr",
-  "tvTypes": [
-   "NSFW"
-  ],
-  "iconUrl": "",
-  "apiVersion": 1,
-  "fileHash": "sha256-cdbf48d9fc5cef1fda4a325441d4236e90862a58f1828b870eaf9f2098060f8b"
- },
- {
-  "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/builds/HdAbla.cs3",
-  "status": 1,
-  "version": 2,
-  "name": "HdAbla",
-  "internalName": "HdAbla",
-  "authors": [
-   "Community"
-  ],
-  "description": "+18 Yetişkin film izleme eklentisi",
-  "fileSize": 13721,
-  "repositoryUrl": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main",
-  "language": "tr",
-  "tvTypes": [
-   "NSFW"
-  ],
-  "iconUrl": "",
-  "apiVersion": 1,
-  "fileHash": "sha256-cb652beb4fa6d583de3cbfdcc30b0fffab72fbe9158114bc3f3ff8673df52215"
- },
- {
-  "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/builds/Hqporner.cs3",
-  "status": 1,
-  "version": 4,
-  "name": "Hqporner",
-  "internalName": "Hqporner",
-  "authors": [
-   "Community"
-  ],
-  "description": "+18 Premium 4K/HD video arşivi",
-  "fileSize": 14542,
-  "repositoryUrl": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main",
-  "language": "tr",
-  "tvTypes": [
-   "NSFW"
-  ],
-  "iconUrl": "",
-  "apiVersion": 1,
-  "fileHash": "sha256-be7681b95a8f67e70212ced9981b8453401c24c4b5028c20c80e70c10fadbdb2"
- },
- {
-  "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/builds/IfsaLog.cs3",
-  "status": 1,
-  "version": 3,
-  "name": "IfsaLog",
-  "internalName": "IfsaLog",
-  "authors": [
-   "Community"
-  ],
-  "description": "+18 Yerli ifşa ve yetişkin arşivi",
-  "fileSize": 11783,
-  "repositoryUrl": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main",
-  "language": "tr",
-  "tvTypes": [
-   "NSFW"
-  ],
-  "iconUrl": "",
-  "apiVersion": 1,
-  "fileHash": "sha256-f37c3143489b22e8781e95aadd64e844f7c3251899c9ea6dba208b8501d0ec94"
- },
- {
-  "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/builds/Kalite18.cs3",
-  "status": 1,
-  "version": 2,
-  "name": "Kalite18",
-  "internalName": "Kalite18",
-  "authors": [
-   "Community"
-  ],
-  "description": "+18 HD kalite Türkçe altyazılı yetişkin filmler",
-  "fileSize": 12776,
-  "repositoryUrl": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main",
-  "language": "tr",
-  "tvTypes": [
-   "NSFW"
-  ],
-  "iconUrl": "",
-  "apiVersion": 1,
-  "fileHash": "sha256-390fb9265a4eb5c3d13f774d9eb2264b36ea8aa7c234a45af4d4c35f42d20775"
- },
- {
-  "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/builds/PornoAnne.cs3",
-  "status": 1,
-  "version": 3,
-  "name": "PornoAnne",
-  "internalName": "PornoAnne",
-  "authors": [
-   "Community"
-  ],
-  "description": "+18 Yetişkin içerik platformu",
-  "fileSize": 11636,
-  "repositoryUrl": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main",
-  "language": "tr",
-  "tvTypes": [
-   "NSFW"
-  ],
-  "iconUrl": "",
-  "apiVersion": 1,
-  "fileHash": "sha256-613b3d29ad163e8085a4ed63dfa0a353af40b494aac9b9e03f4221c511793b9f"
- },
- {
-  "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/builds/Xhamster.cs3",
-  "status": 1,
-  "version": 1,
-  "name": "Xhamster",
-  "internalName": "Xhamster",
-  "authors": [
-   "Community"
-  ],
-  "description": "+18 Xhamster video arşivi",
-  "fileSize": 26861,
-  "repositoryUrl": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main",
-  "language": "tr",
-  "tvTypes": [
-   "NSFW"
-  ],
-  "iconUrl": "",
-  "apiVersion": 1,
-  "fileHash": "sha256-6a4beda637a3799b94d5322b03f9195b1bdf33d74873ed5d52dfd01dceaccb63"
- },
- {
-  "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/builds/XNXX.cs3",
-  "status": 1,
-  "version": 2,
-  "name": "XNXX",
-  "internalName": "XNXX",
-  "authors": [
-   "Community"
-  ],
-  "description": "+18 XNXX video platformu",
-  "fileSize": 23156,
-  "repositoryUrl": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main",
-  "language": "tr",
-  "tvTypes": [
-   "NSFW"
-  ],
-  "iconUrl": "",
-  "apiVersion": 1,
-  "fileHash": "sha256-36719a35c7e6126c6383dc37873f74da593ca41e770f036c5ad8d07ebdaba0c4"
- },
- {
-  "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/builds/MRC-Naughty.cs3",
-  "status": 1,
-  "version": 4,
-  "name": "MRC-Naughty",
-  "internalName": "MRC-Naughty",
-  "authors": [
-   "Community"
-  ],
-  "description": "+18 Yetişkin film ve video arşivi",
-  "fileSize": 38350,
-  "repositoryUrl": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main",
-  "language": "tr",
-  "tvTypes": [
-   "NSFW"
-  ],
-  "iconUrl": "",
-  "apiVersion": 1,
-  "fileHash": "sha256-f3b9fdbfd63d378100948044e847bb8a088bf949d6bc3f3138163dc244697721"
  }
 ]
