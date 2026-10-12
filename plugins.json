@@ -1242,7 +1242,7 @@
  },
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/builds/FullHDFilmizlesene.cs3",
-  "status": 1,
+  "status": 0,
   "version": 33,
   "name": "FullHDFilmizlesene",
   "internalName": "FullHDFilmizlesene",
@@ -1497,7 +1497,7 @@
  },
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/builds/FullHDFilm.cs3",
-  "status": 1,
+  "status": 0,
   "version": 36,
   "name": "FullHDFilm",
   "internalName": "FullHDFilm",
