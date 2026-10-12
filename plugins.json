@@ -1200,7 +1200,7 @@
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/builds/HDFilmCehennemi.cs3",
   "status": 1,
-  "version": 58,
+  "version": 86,
   "name": "HDFilmCehennemi",
   "internalName": "HDFilmCehennemi",
   "authors": [
@@ -1208,7 +1208,7 @@
    "keyiflerolsun"
   ],
   "description": "Türkiye'nin en popüler ve güncel hd film ve dizi izleme sitesi.",
-  "fileSize": 48578,
+  "fileSize": 65617,
   "repositoryUrl": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main",
   "language": "tr",
   "tvTypes": [
@@ -1217,12 +1217,12 @@
   ],
   "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.hdfilmcehennemi.nl&size=128",
   "apiVersion": 1,
-  "fileHash": "sha256-453fe0ac8d5de15889dd067334a523946a36b0c3886c06030c6e65e6c4467dac"
+  "fileHash": "sha256-48b39b291d53b2da338de0a85482aaccfff201033d8da798635739ddc68acf10"
  },
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/builds/FilmMakinesi.cs3",
   "status": 1,
-  "version": 59,
+  "version": 67,
   "name": "FilmMakinesi",
   "internalName": "FilmMakinesi",
   "authors": [
@@ -1230,7 +1230,7 @@
    "usdogu"
   ],
   "description": "Film Makinesi, en yeni ve en güncel filmleri sitemizde full HD kalite farkı ile izleyebilirsiniz. HD film izle denildiğinde akla gelen en kaliteli film izleme sitesi.",
-  "fileSize": 32902,
+  "fileSize": 74369,
   "repositoryUrl": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main",
   "language": "tr",
   "tvTypes": [
@@ -1238,19 +1238,19 @@
   ],
   "iconUrl": "https://www.google.com/s2/favicons?domain=filmmakinesi.film&sz=%size%",
   "apiVersion": 1,
-  "fileHash": "sha256-96c3e3784c270d960ab3207e618c3306214466a1f2225af66cd7c6fdb15b02ff"
+  "fileHash": "sha256-e7e8d803888adcc18314885a8c9fc3f6538ab33ac79145c439c48b8b6f95269d"
  },
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/builds/FullHDFilmizlesene.cs3",
   "status": 1,
-  "version": 33,
+  "version": 63,
   "name": "FullHDFilmizlesene",
   "internalName": "FullHDFilmizlesene",
   "authors": [
    "keyiflerolsun"
   ],
   "description": "Sinema zevkini evinize kadar getirdik. Türkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
-  "fileSize": 40117,
+  "fileSize": 138860,
   "repositoryUrl": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main",
   "language": "tr",
   "tvTypes": [
@@ -1258,12 +1258,12 @@
   ],
   "iconUrl": "https://www.google.com/s2/favicons?domain=www.fullhdfilmizlesene.de&sz=%size%",
   "apiVersion": 1,
-  "fileHash": "sha256-8f2cff5f9fc87f38d415b65c30c7ad3b7c9a5d26f03d8e73b072ff520b499253"
+  "fileHash": "sha256-6e0d6f48a759ab45e1a863eb2c580fc6b60f34434a6fe0c40f18b9655049f9ed"
  },
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/builds/InatBox.cs3",
   "status": 1,
-  "version": 30,
+  "version": 54,
   "name": "InatBox",
   "internalName": "InatBox",
   "authors": [
@@ -1271,7 +1271,7 @@
    "keyiflerolsun"
   ],
   "description": "İnatBox cloudstream eklentisidir. Sevdiğiniz yayın platformlarını ve canlı maçları burada bulabilirsiniz.",
-  "fileSize": 36900,
+  "fileSize": 50829,
   "repositoryUrl": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main",
   "language": "tr",
   "tvTypes": [
@@ -1281,7 +1281,7 @@
   ],
   "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png",
   "apiVersion": 1,
-  "fileHash": "sha256-006c7b68f7deb24c5356c753429c20607896f78009a8edbf27a46bd6ff0651fb"
+  "fileHash": "sha256-643098f164c5465f50c2bd4bb2455a0f1d675fad1e7765d6c34e1f1fff1b4ce8"
  },
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/builds/RecTV.cs3",
@@ -1335,7 +1335,7 @@
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/builds/AnimeciX.cs3",
   "status": 1,
-  "version": 21,
+  "version": 76,
   "name": "AnimeciX",
   "internalName": "AnimeciX",
   "authors": [
@@ -1344,7 +1344,7 @@
    "JustRelaxable"
   ],
   "description": "AnimeciX, animeleri keşfedebileceğiniz ve animeler hakkında her şeyi öğrenebileceğiniz bir paylaşım platformudur.",
-  "fileSize": 26561,
+  "fileSize": 155308,
   "repositoryUrl": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main",
   "language": "tr",
   "tvTypes": [
@@ -1352,7 +1352,7 @@
   ],
   "iconUrl": "https://animecix.tv/favicon.ico",
   "apiVersion": 1,
-  "fileHash": "sha256-63a0b89a612fb5820898dcf02e73d8b8d9b558f5f0d8ccd7ab15fce2217cd89f"
+  "fileHash": "sha256-5e9d84839001889ed0549ecdcc7d038cee3f2b20d91f4cb110e50741db7bc790"
  },
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/builds/DiziGom.cs3",
