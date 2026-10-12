@@ -26,6 +26,11 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
+      - name: Eklenti Paketlerini Doğrula
+        run: |
+          python -m unittest -q test_domain_bot.py
+          python domain_bot.py --check
+
       - name: Domain Botunu Çalıştır ve Push Et
         run: |
           python domain_bot.py --push

@@ -1,6 +1,6 @@
 # CloudStream Otomatik Alan Adı (Domain) Güncelleme Botu
 
-Bu bot, [eklenti_domainleri.txt](file:///Users/karakas/Downloads/cs-yerel-main/eklenti_domainleri.txt) dosyasındaki tüm film, dizi ve anime sitelerinin alan adlarını otomatik olarak kontrol eder. Adres değiştiğinde (yönlendirme, BTK engeli, sayı rotasyonu vb.) yeni adresi tespit edip dosyayı günceller ve GitHub'a push eder.
+Bu bot, [eklenti_domainleri.txt](eklenti_domainleri.txt) dosyasındaki adresleri kontrol eder. Yalnızca bu dosyayı okuyan derlenmiş eklentiler için doğrulanmış adres değişikliklerini kaydeder. Bir ana sayfanın açılması, eklentinin arama veya video oynatma işlevlerinin çalıştığını göstermez.
 
 ---
 
@@ -20,6 +20,12 @@ Bu bot, [eklenti_domainleri.txt](file:///Users/karakas/Downloads/cs-yerel-main/e
 # Sadece tarayıp dosyayı yerel olarak güncellemek için:
 python3 domain_bot.py
 
+# İnternete bağlanmadan katalog, paket ve adres kapsamını denetlemek için:
+python3 domain_bot.py --check
+
+# Tek eklentiyi dosya değiştirmeden denemek için:
+python3 domain_bot.py --dry-run --provider DiziPal
+
 # Güncelleyip doğrudan GitHub'a push etmek için:
 python3 domain_bot.py --push
 
@@ -31,8 +37,8 @@ python3 domain_bot.py --daemon --push --interval 14400
 
 ## 🛠️ Botun Özellikleri ve Algoritmaları
 
-1. **HTTP 301/302 Yönlendirme Takibi:** Bir site yeni bir alan adına yönlendiğinde (örn. `tranimeizle.io` -> `tranimeizle.live`) otomatik olarak yeni domain kaydedilir.
-2. **Sayısal Rotasyon Avcısı:** Engellendikçe sonundaki sayıyı artıran siteleri (örn. `dizipal1589.com`, `dizi77.life`) otomatik olarak taranıp en güncel çalışan sayıya geçirilir.
-3. **TLD / Uzantı Rotasyonu:** Engellenen sitelerin `.net`, `.to`, `.me`, `.org`, `.tel`, `.live` gibi popüler alternatif aynaları taranır.
-4. **BTK ve Sahte Ekran Filtresi:** Mahkeme/BTK engelleme ekranları (`.erisime_engellenmis`), boş Plesk sayfaları ve satılık domain park sayfaları tespit edilip filtrelenir.
-5. **Git Otomasyonu:** Yalnızca gerçek bir domain değişikliği olduğunda anlamlı bir commit mesajıyla GitHub'a push yapar.
+1. **Paket kapsamı:** Bot `.cs3` paketlerini kontrol eder; birden çok sağlayıcı barındıran paketlerin kullandığı adres anahtarlarını da tarar. Adres listesini okumayan paketleri raporlar. Böyle eklentilerde adres düzeltmesi için kaynak kodun değiştirilip paketin yeniden derlenmesi gerekir.
+2. **Yönlendirme ve aynalar:** Yalnızca aynı alan adına veya kodda açıkça tanımlanmış aynalara güvenli HTTPS yönlendirmeleri kabul edilir. Rastgele sayı ve uzantı tahmini yapılmaz.
+3. **Yanıltıcı sayfa filtresi:** Erişim engeli, bot doğrulaması, park sayfası ve giriş bağlantıları sağlayıcı adresi olarak kaydedilmez.
+4. **Katalog denetimi:** `plugins.json` sürümü, boyutu ve SHA-256 değeri gerçek `.cs3` paketleriyle karşılaştırılır. Uyuşmazlıkta tarama başarısız olur.
+5. **Git otomasyonu:** Doğrulanmış adres değişikliği varsa yalnızca adres dosyası commit edilir ve push edilir.

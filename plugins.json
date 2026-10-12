@@ -2,7 +2,7 @@
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/builds/Animeler.cs3",
   "status": 1,
-  "version": 39,
+  "version": 38,
   "name": "Animeler",
   "internalName": "Animeler",
   "authors": [
@@ -69,7 +69,7 @@
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/builds/AsyaAnimeleri.cs3",
   "status": 1,
-  "version": 22,
+  "version": 21,
   "name": "AsyaAnimeleri",
   "internalName": "AsyaAnimeleri",
   "authors": [
@@ -150,7 +150,7 @@
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/builds/BelgeselX.cs3",
   "status": 1,
-  "version": 37,
+  "version": 36,
   "name": "BelgeselX",
   "internalName": "BelgeselX",
   "authors": [
@@ -212,7 +212,7 @@
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/builds/Ddizi.cs3",
   "status": 1,
-  "version": 15,
+  "version": 14,
   "name": "Ddizi",
   "internalName": "Ddizi",
   "authors": [
@@ -232,7 +232,7 @@
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/builds/DiziAsia.cs3",
   "status": 1,
-  "version": 16,
+  "version": 15,
   "name": "DiziAsia",
   "internalName": "DiziAsia",
   "authors": [
@@ -294,7 +294,7 @@
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/builds/DiziFilmORG.cs3",
   "status": 1,
-  "version": 18,
+  "version": 17,
   "name": "DiziFilmORG",
   "internalName": "DiziFilmORG",
   "authors": [
@@ -485,7 +485,7 @@
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/builds/Dizilla.cs3",
   "status": 1,
-  "version": 104,
+  "version": 103,
   "name": "Dizilla",
   "internalName": "Dizilla",
   "authors": [
@@ -530,7 +530,7 @@
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/builds/FilmEkseni.cs3",
   "status": 1,
-  "version": 48,
+  "version": 47,
   "name": "FilmEkseni",
   "internalName": "FilmEkseni",
   "authors": [
@@ -631,7 +631,7 @@
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/builds/HDFilmDelisi.cs3",
   "status": 1,
-  "version": 16,
+  "version": 15,
   "name": "HDFilmDelisi",
   "internalName": "HDFilmDelisi",
   "authors": [
@@ -671,7 +671,7 @@
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/builds/JetFilmizle.cs3",
   "status": 1,
-  "version": 62,
+  "version": 60,
   "name": "JetFilmizle",
   "internalName": "JetFilmizle",
   "authors": [
@@ -692,7 +692,7 @@
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/builds/KickTR.cs3",
   "status": 1,
-  "version": 15,
+  "version": 14,
   "name": "KickTR",
   "internalName": "KickTR",
   "authors": [
@@ -740,7 +740,7 @@
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/builds/KultFilmler.cs3",
   "status": 1,
-  "version": 30,
+  "version": 29,
   "name": "KultFilmler",
   "internalName": "KultFilmler",
   "authors": [
@@ -784,7 +784,7 @@
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/builds/OnePaceTr.cs3",
   "status": 1,
-  "version": 11,
+  "version": 10,
   "name": "OnePaceTr",
   "internalName": "OnePaceTr",
   "authors": [
@@ -804,7 +804,7 @@
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/builds/OpenAnime.cs3",
   "status": 1,
-  "version": 26,
+  "version": 25,
   "name": "OpenAnime",
   "internalName": "OpenAnime",
   "authors": [
@@ -826,7 +826,7 @@
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/builds/RareFilmm.cs3",
   "status": 1,
-  "version": 18,
+  "version": 17,
   "name": "RareFilmm",
   "internalName": "RareFilmm",
   "authors": [
@@ -951,7 +951,7 @@
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/builds/Sinezy.cs3",
   "status": 1,
-  "version": 39,
+  "version": 38,
   "name": "Sinezy",
   "internalName": "Sinezy",
   "authors": [
@@ -991,7 +991,7 @@
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/builds/TurkAnime.cs3",
   "status": 1,
-  "version": 33,
+  "version": 30,
   "name": "TurkAnime",
   "internalName": "TurkAnime",
   "authors": [
@@ -1033,7 +1033,7 @@
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/builds/TvDiziler.cs3",
   "status": 1,
-  "version": 16,
+  "version": 14,
   "name": "TvDiziler",
   "internalName": "TvDiziler",
   "authors": [
@@ -1159,7 +1159,7 @@
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/builds/YabanciDizi.cs3",
   "status": 1,
-  "version": 18,
+  "version": 16,
   "name": "YabanciDizi",
   "internalName": "YabanciDizi",
   "authors": [
@@ -1286,7 +1286,7 @@
  {
   "url": "https://raw.githubusercontent.com/mrkstevn-ui/cs-yerel/main/builds/RecTV.cs3",
   "status": 1,
-  "version": 113,
+  "version": 110,
   "name": "RecTV",
   "internalName": "RecTV",
   "authors": [
